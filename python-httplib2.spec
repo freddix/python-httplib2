@@ -1,11 +1,11 @@
 Summary:	A comprehensive HTTP client library
 Name:		python-httplib2
-Version:	0.7.6
+Version:	0.7.7
 Release:	1
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	http://httplib2.googlecode.com/files/httplib2-%{version}.tar.gz
-# Source0-md5:	65ff252c621e382cbaf10b43f28891b9
+# Source0-md5:	8ee8083423c2413a042116a1d5fdda31
 URL:		http://code.google.com/p/httplib2
 BuildRequires:	python
 BuildRequires:	python-modules
